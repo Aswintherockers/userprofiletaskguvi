@@ -29,7 +29,7 @@ This project demonstrates a simple web authentication system with user registrat
 - Session management using browser local storage and Redis.
 
 ## Getting Started
-
+ - Xampp server is important on we work on php my admin
 ### Prerequisites
 
 - Web server (e.g., Apache, Nginx)
