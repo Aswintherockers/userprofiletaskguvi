@@ -1,4 +1,4 @@
-![Screenshot (70)](https://github.com/Aswintherockers/userprofiletaskguvi/assets/110334860/f107e0e2-a63f-4d2a-b1fc-14de6ed70592)![Screenshot (73)](https://github.com/Aswintherockers/userprofiletaskguvi/assets/110334860/fc150dc7-3a95-49ce-a5c9-4bcbc5d85514)# userprofiletaskguvi
+# userprofiletaskguvi
 user profile using html,css,js,php,sql
 Certainly! Below is a basic example of a README file content that you can include in your project. Please modify it as needed to provide more specific details about your project.
 
@@ -95,7 +95,9 @@ This project demonstrates a simple web authentication system with user registrat
 
 ![Screenshot (65)](https://github.com/Aswintherockers/userprofiletaskguvi/assets/110334860/52cb48f3-3ee3-4076-a3ce-84abaceb184f)
 
+![Screenshot (70)](https://github.com/Aswintherockers/userprofiletaskguvi/assets/110334860/f107e0e2-a63f-4d2a-b1fc-14de6ed70592)
 
+![Screenshot (73)](https://github.com/Aswintherockers/userprofiletaskguvi/assets/110334860/fc150dc7-3a95-49ce-a5c9-4bcbc5d85514)
 ## Technologies Used
 
 - HTML, CSS, JavaScript
