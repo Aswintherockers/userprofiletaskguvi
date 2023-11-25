@@ -77,6 +77,10 @@ This project demonstrates a simple web authentication system with user registrat
 - README.md
 ```
 ## Images
+![Screenshot (79)](https://github.com/Aswintherockers/userprofiletaskguvi/assets/110334860/a7b1dd2d-42b2-48dd-a2fb-f7b9f6b9d128)
+
+![2023-11-25 (3)](https://github.com/Aswintherockers/userprofiletaskguvi/assets/110334860/6e54deee-1884-451a-b96d-2341e98aa38c)
+
 ![Screenshot (72)](https://github.com/Aswintherockers/userprofiletaskguvi/assets/110334860/3db0fed0-a429-40b6-886c-982df1459f24)
 
 ![Screenshot (73)](https://github.com/Aswintherockers/userprofiletaskguvi/assets/110334860/eb96a603-ee28-4abb-8d1a-bb93597c0052)
